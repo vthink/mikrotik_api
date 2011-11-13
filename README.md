@@ -1,15 +1,46 @@
 #Mikrotik RouterOS API
 This spark library for working with Mikrotik RouterOS API. The Library is developing 
 from Denis Basta (denis.basta@gmail.com) routeros_api class and we change it to our
-core class with name Mapi_Core.
+core class with name Mapi_Core. We have been tested with RouterOS version 3 and above.
+This spark library allow you to manipulating your Mikrotik RouterOS, but in this version
+there is much thing not have done yet. In the future release we will developing compelete
+library for manipulation Mikrotik RouterOS.
 
-We have been tested with RouterOS version 3 and above
+Support In Version 0.5.0
+
+   * IP Address
+   * IP Accounting
+   * IP ARP
+   * IP DHCP Client
+   * IP DHCP Relay
+   * IP DHCP Server
+   * IP DNS
+   * IP Pool
+   * IP Firewall
+   * IP Hotspot
+   * IP Route
+   * IP Service
+   * Interface Bonding
+   * Interface Eoip
+   * Interface Ethernet
+   * Interface IpIp
+   * Interface PPPOE Client
+   * Interface PPPOE Server
+   * Interface VLAN
+   * Interface VRRP
+   * PPP AAA
+   * PPP Active
+   * PPP Profile
+   * PPP Secret
+   * System
+   * File
 
 ##Documentation
 We still build documentation for this spark library, 
 so to get update information about documentation and spark libary update 
-please go to our site at  http://vthink.web.id/index.php/content/categories/21. And to know more about Mikrotik RouterOS API Manual
-you can go to site : http://wiki.mikrotik.com/wiki/Manual:API
+please go to our site at  http://vthink.web.id/index.php/content/categories/21. 
+And to know more about Mikrotik RouterOS API Manual
+you can go to site at  http://wiki.mikrotik.com/wiki/Manual:API
 
 
 ##Requirement
