@@ -8,9 +8,7 @@ We have been tested with RouterOS version 3 and above
 ##Documentation
 We still build documentation for this spark library, 
 so to get update information about documentation and spark libary update 
-please go to our site at : http://vthink.web.id/index.php/content/categories/21
-
-And to know more about Mikrotik RouterOS API Manual
+please go to our site at  http://vthink.web.id/index.php/content/categories/21. And to know more about Mikrotik RouterOS API Manual
 you can go to site : http://wiki.mikrotik.com/wiki/Manual:API
 
 
