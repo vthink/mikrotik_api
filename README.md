@@ -6,17 +6,17 @@ core class with name Mapi_Core.
 We have been tested with RouterOS version 3 and above
 
 ##Documentation
-We still build documentation for this spark library, 
-so to get documentation about this library please go to http://doc.vthink.web.id
-and to get spark libary update information please go to our site at : http://vthink.web.id/index.php/content/categories/21
 
+For get documentation about this library please go to http://doc.vthink.web.id
 
-And to know more about Mikrotik RouterOS API Manual
-you can go to site : http://wiki.mikrotik.com/wiki/Manual:API
+For get spark library update information please go to our site at : http://vthink.web.id/index.php/content/categories/21
+
+And to know more about Mikrotik RouterOS API Manual you can go to site : http://wiki.mikrotik.com/wiki/Manual:API
 
 
 ##Requirement
 This spark library need minimum requirement for doing well on run.
+    
     * CodeIgniter       : version 2.0.3
     * PHP               : version 5.2.x and above
     * Mikrotik RouterOS : version 3.xx and above
